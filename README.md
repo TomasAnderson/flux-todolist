@@ -1,6 +1,5 @@
-# Flux-Boilerplate
+# Flux-todo MVC
 
-> An application architecture for React utilizing a unidirectional data flow
 
 ##Installing
 First clone this repo to your local machine:
